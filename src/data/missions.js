@@ -2,7 +2,7 @@ const USA = 'Estados Unidos';
 const URSS = 'URSS';
 const INTERESTELAR = 'Espaço interestelar';
 
-const Missions = [ 
+const Missions = [
   {
     name: 'Mariner 2',
     year: '1962',
