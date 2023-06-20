@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.205d3cd0.css",
+    "main.js": "/static/js/main.c5119a0f.js",
+    "static/media/mercury-unscreen.gif": "/static/media/mercury-unscreen.ee889e53d84580b8d268.gif",
+    "static/media/venus-unscreen.gif": "/static/media/venus-unscreen.5e33b4ef583324e3aa1c.gif",
+    "static/media/background.png": "/static/media/background.0dced38ca9c5cd176fed.png",
+    "static/media/saturn-unscreen.gif": "/static/media/saturn-unscreen.e41ccda3860b3e6328c9.gif",
+    "static/media/jupiter-unscreen.gif": "/static/media/jupiter-unscreen.e51fcb8ae527ba66dcdd.gif",
+    "static/media/neptune-unscreen.gif": "/static/media/neptune-unscreen.098c7b571145ff42a261.gif",
+    "static/media/earth-unscreen.gif": "/static/media/earth-unscreen.380b09e3c89329b86ef4.gif",
+    "static/media/uranus-unscreen.gif": "/static/media/uranus-unscreen.e8328052e26f57635ab5.gif",
+    "static/media/mars-unscreen.gif": "/static/media/mars-unscreen.e59c905d1bb8b40f2a11.gif",
+    "index.html": "/index.html",
+    "main.205d3cd0.css.map": "/static/css/main.205d3cd0.css.map",
+    "main.c5119a0f.js.map": "/static/js/main.c5119a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.205d3cd0.css",
+    "static/js/main.c5119a0f.js"
+  ]
+}
